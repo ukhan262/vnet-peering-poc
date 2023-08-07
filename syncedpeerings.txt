@@ -1,0 +1,6 @@
+
+Peering 'peer1to2' for virtual network 'vnet-1-peer-test' in resource group 'rg-arun' is already fully in sync.
+Peering 'peer2to1' for virtual network 'vnet-2-peer-test' in resource group 'rg-arun' is already fully in sync.
+Peering 'othersubpeer2to1' for virtual network 'vnet-2-peer-test' in resource group 'rg-arun' is already fully in sync.
+Peering 'testpeer2to1' for virtual network 'vnet-arham-test-01' in resource group 'rg-arun' is already fully in sync.
+Peering 'testpeer1to2' for virtual network 'vm-bushra-01-vnet' in resource group 'rg-arun' is already fully in sync.
